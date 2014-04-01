@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "监控系统资源", "监控系统资源\监控系统资源.vcproj", "{A00C823C-BF1C-4CB1-BAE9-BB8F9D067AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00C823C-BF1C-4CB1-BAE9-BB8F9D067AA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A00C823C-BF1C-4CB1-BAE9-BB8F9D067AA7}.Debug|Win32.Build.0 = Debug|Win32
+		{A00C823C-BF1C-4CB1-BAE9-BB8F9D067AA7}.Release|Win32.ActiveCfg = Release|Win32
+		{A00C823C-BF1C-4CB1-BAE9-BB8F9D067AA7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
